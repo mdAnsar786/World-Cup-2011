@@ -1,0 +1,127 @@
+/* font-family: 'Poppins', sans-serif; */
+.upper-part{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list{
+    /* display: inline; */
+    list-style-type: none;
+}
+li{
+    display: inline;
+    font-size:25px;
+    padding: 35px;
+}
+
+.header-file{
+    width: auto;
+    height: auto;
+    background-color: blueviolet;
+    color: white;
+}
+.login{
+    width: 150px;
+    font-weight: 700;
+    align-items: center;
+    display: flex;
+    margin: 10px;
+    border-radius: 20px;
+    justify-content: space-between;
+    font-size: 25px;
+    text-align: center;
+    background-color: goldenrod;
+    color: rgb(247, 247, 247);
+}
+
+
+.second-part{
+display: flex;
+justify-content:space-between;
+margin-left: 150px;
+margin-right: 150px;
+/* margin-top: 50px; */
+
+}
+.pack{
+   font-size: 50px;
+   width: 443px;
+   text-align: left;
+}
+.man-pic{
+    width: 400px;
+    margin-top: 50px;
+}
+.watch{
+    width: 150px;
+    background-color:goldenrod;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+.america{
+    margin-bottom: 0px;
+}
+.player-1{
+    width: 300px;
+    height: 450px;
+    box-shadow: 10px 10px 10px 10px #c1c5b621;
+    border-radius: 15px ;
+    margin-top: 10px;
+
+}
+.player-1 img{
+    width: 300px;
+    border-radius: 15px ;
+}
+.descript{
+    font-size: 18px;
+    text-align: left;
+    font-weight: 100;
+}
+.main-div{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.third-part{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 110px;
+    margin-right: 200px;
+    margin-left: 150px;
+
+}
+.match{
+    width: 550px;
+}
+.copa{
+    width: 500px;
+}
+.copa-title{
+    font-size: 60px;
+    font-weight: 50px;
+}
+.playgame{
+    width: 150px;
+    background-color:goldenrod;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 25px;  
+}
+.copyright{
+    text-align: center;
+    margin-top: 20px;
+}
+.logo{
+  
+    text-align: center;
+    align-items: center;
+}
